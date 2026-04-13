@@ -1,1 +1,4 @@
-# project1
+Game
+Idea
+Goal
+Steps:
